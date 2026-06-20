@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884576002795",
+    "project_id": "catatku-198a0",
+    "storage_bucket": "catatku-198a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884576002795:android:f874e3272d729b2081d4ae",
+        "android_client_info": {
+          "package_name": "com.example.catatku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7m7AOmVCW_WqK1xASwbYGBcv_3Sqla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
